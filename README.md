@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michele Acciuffi
-- 🌱 I’m currently learning to write in C
+- 🌱 I’m currently learning to write in C and rarely in Python
 - 📫 Reach me with my email micheleacciuffi@gmail.com
 
 <!---
