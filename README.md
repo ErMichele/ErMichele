@@ -1,5 +1,4 @@
 # Progetti:
-1) Michele.h;
 2) Sito;
 3) Gioco online;
 4) Ping pong;
