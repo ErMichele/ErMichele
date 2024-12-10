@@ -1,6 +1,6 @@
 # Progetti:
-2) Sito;
-3) Gioco online;
-4) Ping pong;
-5) Imparare a scrivere in python e forse lua;
-6) Libreria.
+1) Sito;
+2) Gioco online;
+3) Ping pong;
+4) Imparare a scrivere in python e forse lua;
+5) Libreria.
