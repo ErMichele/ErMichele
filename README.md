@@ -1,6 +1,14 @@
 # Progetti:
-1) Sito;
-2) Gioco online;
+1) Sito web personale;
+2) Implementare il mio gioco tris per intrattenersi online (con server-client side);
 3) Ping pong;
-4) Imparare a scrivere in python e forse lua;
-5) Libreria.
+4) Il mio gioco su roblox con Luau;
+5) La mia libreria di C personale;
+6) Imparare come mettere un programma funzionante su un sito;
+7) Provare a creare la mia mod di minecraft.
+# Linguaggi che conosco:
+1) C;
+2) Un po' di Python;
+3) Lua/Luau;
+4) Html, css, javascript;
+5) Arduino.
