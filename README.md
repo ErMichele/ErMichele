@@ -8,7 +8,7 @@
 7) Provare a creare la mia mod di minecraft.
 # Linguaggi che conosco:
 1) C;
-2) Un po' di Python;
+2) Un po' di Python e C#;
 3) Lua/Luau;
 4) Html, css, javascript;
 5) Arduino.
