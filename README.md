@@ -6,6 +6,7 @@
 5) La mia libreria di C personale;
 6) Imparare come mettere un programma funzionante su un sito;
 7) Provare a creare la mia mod di minecraft.
+8) Sviluppo dei miei bot di discord
 # Linguaggi che conosco:
 1) C;
 2) Un po' di Python e C#;
