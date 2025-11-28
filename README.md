@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+have+become+a+coder;The+untoucher+of+grass)](https://git.io/typing-svg)
+
 # Progetti a cui sto lavorando:
 1) Il mio sito web personale;
 2) Un gioco, di cui sono propretario, parkour su Roblox;
