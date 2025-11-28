@@ -1,4 +1,4 @@
-#Thsis workflow generates the github-contribution-grid-snake.svg, made by Platane ()
+#Thsis workflow generates the github-contribution-grid-snake.svg, made by Platane (https://github.com/Platane/snk)
 
 name: generate animation
 
