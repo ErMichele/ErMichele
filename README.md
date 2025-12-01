@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+have+become+a+coder,;+the+untoucher+of+grass;+;CSS+is+the+death+valley,;Bootstrap+is+the+promised+land;+;Better+Call+Docs!&duration=5000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+have+become+a+coder,;+the+untoucher+of+grass;+;CSS+is+the+death+valley,;Bootstrap+is+the+promised+land;+;Better+Call+Docs!&duration=3000)](https://git.io/typing-svg)
 
 # 👋 Yo, I'm ErMichele
 ---
