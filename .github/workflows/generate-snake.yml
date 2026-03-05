@@ -3,14 +3,11 @@
 name: generate animation
 
 on:
-  # run automatically ogni giorno a mezzanotte UTC
   schedule:
     - cron: "0 0 * * *"
   
-  # run manuale
   workflow_dispatch:
   
-  # run su ogni push al branch main (se usi main)
   push:
     branches:
       - main
@@ -26,7 +23,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ErMichele   # qui metti esplicitamente il tuo username
+          github_user_name: ErMichele
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
