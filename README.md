@@ -2,8 +2,8 @@
 # Yo, I'm ErMichele
 I'm a 16 year old italian student and this are my *perfect*, *wonderful* and totally not **stupid** github account!
 ## My Personal favourite projects that i built yet
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=ErMichele&repo=ermichele.github.io&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=ErMichele&repo=ToPlanBlock&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=ErMichele&repo=ermichele.github.io&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=ErMichele&repo=ToPlanBlock&theme=github_dark)
 
 ---
 
